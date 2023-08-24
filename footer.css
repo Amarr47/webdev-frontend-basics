@@ -1,0 +1,41 @@
+.home_footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 105%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: solid;
+}
+.footer1{
+  margin-top: 25px;
+  padding: 15px;
+}
+.clogos{
+
+    /* border:2px solid black; */
+    position: relative;
+    right: 10px;
+}
+.footer2,.footer3,.footer4{
+    margin : 25px;
+    padding: 15px;
+}
+.copyright{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-decoration: solid;
+    margin-top: 30px;
+}
+.c1{
+    margin-left: 350px;
+    margin-right: 15rem;
+}
+.c2,.c3{
+    margin-left: 25px;
+}

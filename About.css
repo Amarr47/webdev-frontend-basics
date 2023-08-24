@@ -1,0 +1,78 @@
+.about_headermain
+{
+    background-image: url("https://e0.pxfuel.com/wallpapers/136/191/desktop-wallpaper-beach-horizon-resolution-px.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.about_headerclass
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    /*justify-content: center;
+    align-items: center;*/
+    padding-top: 45px;
+    padding-right: 45px;
+    padding-left: 45px;
+    font-size: 175%;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about_main
+{
+    margin-left: 165px;
+    margin-right: 5rem;
+    margin-top: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.about_main1,.about_main2{
+    font-size: 275%;
+    color:black;
+}
+.about_p1,.about_p2,.about_p3{
+    margin-top: 20px;
+    margin-right: 600px;
+    color: black;
+    font-size: 125%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.about_main3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 180%;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 5px; 
+    padding: 15px;
+    color: white;
+    background-color:black;
+    border: 2px solid ;
+}
+.about_main3:hover{
+    background-color:darkcyan;
+    color: white;
+}
+.about_img{
+    position: relative;
+    bottom: 320px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left: 850px;
+    height: 15%;
+    width:65%
+}
+.about_main4{
+    position: relative;
+    right: 75px;
+    width: 50%;
+}
+.about_main5{
+    position: relative;
+    left: 65px;
+    width: 70%;
+}
+
+
